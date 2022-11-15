@@ -137,4 +137,27 @@ https://lnkd.in/d8HUP9Td
 
 https://lnkd.in/dwSccJBD
 
+# How I Passed AWS Certification
+Hello Connection 👩‍💻🧑‍💻
+
+I have been asked several times on what I studied to pass my AWS exams.
+
+I studied using Stéphane Maarek solutions architect for my associates. I proceeded to doing practical test using Whizlabs solution architect and Jon Bonso .
+
+The best time to schedule your exams , is when you started passing practical tests by 80%.
+
+Least I forget, Adrian Cantrill has one of the best AWS devOps course.
+
+I hope this helps those that are looking to take their AWS solution architect exams decides on where to start.
+
+If you’re looking to write AWS Certified Solutions Architect - Associate (SAA-C02 & SAA-C03), I recommend you check Adrian Cantrill & Stéphane Maarek , they have one of the best lectures out there.
+
+And for practical test, I recommend Whizlabs & Jon Bonso
+
+
+All the best to those taking their exams 👏👏👏👏
+
+
+HAPPY LEARNING 📌
+
 
