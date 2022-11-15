@@ -88,7 +88,7 @@ https://lnkd.in/dg8JSet5
 https://lnkd.in/dFaEagvK
 
 
-#12 FREE COURSES ON SIMPILEARN
+# 12 FREE COURSES ON SIMPILEARN
 1. DevOps basic :
 
 https://lnkd.in/dyMh4BsY
